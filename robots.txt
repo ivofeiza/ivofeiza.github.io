@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivofeiza.github.io/cPn/sitemap_index.txt
+Sitemap: https://ivofeiza.github.io/lgh/sitemap_index.txt
+Sitemap: https://ivofeiza.github.io/oUs/sitemap_index.txt
+Sitemap: https://ivofeiza.github.io/tAi/sitemap_index.txt
